@@ -1,0 +1,13 @@
+D:\Studying\My project c#\Lavee Nails Saloon App\Lavee Nails Saloon App\bin\Debug\Lavee Nails Saloon App.exe.config
+D:\Studying\My project c#\Lavee Nails Saloon App\Lavee Nails Saloon App\bin\Debug\Lavee Nails Saloon App.exe
+D:\Studying\My project c#\Lavee Nails Saloon App\Lavee Nails Saloon App\bin\Debug\Lavee Nails Saloon App.pdb
+D:\Studying\My project c#\Lavee Nails Saloon App\Lavee Nails Saloon App\obj\Debug\Lavee_Nails_Saloon_App.Properties.Resources.resources
+D:\Studying\My project c#\Lavee Nails Saloon App\Lavee Nails Saloon App\obj\Debug\Lavee Nails Saloon App.csproj.GenerateResource.cache
+D:\Studying\My project c#\Lavee Nails Saloon App\Lavee Nails Saloon App\obj\Debug\Lavee Nails Saloon App.csproj.CoreCompileInputs.cache
+D:\Studying\My project c#\Lavee Nails Saloon App\Lavee Nails Saloon App\obj\Debug\Lavee Nails Saloon App.exe
+D:\Studying\My project c#\Lavee Nails Saloon App\Lavee Nails Saloon App\obj\Debug\Lavee Nails Saloon App.pdb
+D:\Studying\My project c#\Lavee Nails Saloon App\Lavee Nails Saloon App\obj\Debug\Lavee_Nails_Saloon_App.ClientInformation.resources
+D:\Studying\My project c#\Lavee Nails Saloon App\Lavee Nails Saloon App\obj\Debug\Lavee_Nails_Saloon_App.DatePick.resources
+D:\Studying\My project c#\Lavee Nails Saloon App\Lavee Nails Saloon App\obj\Debug\Lavee_Nails_Saloon_App.StartForm.resources
+D:\Studying\My project c#\Lavee Nails Saloon App\Lavee Nails Saloon App\obj\Debug\Lavee Nails Saloon App.csprojAssemblyReference.cache
+D:\Studying\My project c#\Lavee Nails Saloon App\Lavee Nails Saloon App\obj\Debug\Lavee_Nails_Saloon_App.AppointmentLookUpForm.resources
