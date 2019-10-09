@@ -1,4 +1,4 @@
-# Lavee Nails Appointment Booking App
+# Lavee Nails Appointment Booking App (Personal Project)
 This is an appointment booking app for nails saloon named Lavee. I wirte this one using C# and Visual Studio as tool.
 Expected features:
 - Allow owner to input client's information to book an appointment
